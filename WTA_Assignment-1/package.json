@@ -1,0 +1,14 @@
+{
+  "name": "WTA-Assignment",
+  "version": "1.0.0",
+  "description": "A single-page appraisal form with AngularJS",
+  "main": "server.js",
+  "author": "Sagar Choudhury",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.3",
+    "node-restful": "^0.2.2"
+  }
+}
